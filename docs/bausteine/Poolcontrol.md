@@ -71,6 +71,8 @@ Schwimmbad Icons erstellt von xnimrodx - Flaticon
 ## Changelog
 
 V1.1.0
+
+Wichtig: Vor dem Baustein Update muss der Baustein vom Logikblatt gelöscht werden!
 - Heizbetrieb: Prüfung ob Rücklauf wärmer als Vorlauf erfolgt nun permanent bei jeder Änderung
   der Rücklauftemperatur anstatt in festen Zeitintervallen
 - Prüfzeit-Timer startet erst wenn Rücklauf die erforderliche Temperaturdifferenz unterschreitet
